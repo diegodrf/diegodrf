@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Diego Faria <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**diegodrf/diegodrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ I’m currently working on Braspag Technology Payments!
+- 📜 I’m currently learning Kotlin and improving my English
 
-Here are some ideas to get you started:
+## Some of my Github Public Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=diegodrf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/diegodrf)
+
+### Connect with me:
+
+[![Gmail Badge](https://img.shields.io/badge/-diego.rdfaria@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diego.rdfaria@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Faria-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodrigues-00a21994/ "Connect on LinkedIn")
+[![Telegram Badge](https://img.shields.io/badge/-@diegodrf-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/diegodrf "Contact on Telegram")
+
+[course]: https://www.udemy.com/course/flutter-bootcamp-with-dart/
