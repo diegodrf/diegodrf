@@ -1,7 +1,7 @@
 # Hi there, I'm Diego Faria <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - ⚙️ I’m currently working on Braspag Technology Payments!
-- 📜 I’m currently learning Kotlin and improving my English
+- 📜 I’m currently learning Flutter and improving my English
 
 ## Some of my Github Public Stats
 
