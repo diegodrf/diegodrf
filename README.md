@@ -40,7 +40,9 @@ I'm Brazilian, but I'm living in Canada, so I need to do my best :muscle:. So le
 - **Flutter**
 	- [Parallax](https://github.com/diegodrf/flutter_parallax)
 
-## Some of my Github Public Stats
+## My Github Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodrf&hide=c%2b%2b,CMake,Swift,C,TSQL,Dockerfile,Objective-C,HTML,JavaScript,CSS&langs_count=10,&layout=compact&bg_color=151515&text_color=9e9e9e)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=diegodrf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/diegodrf)
 
