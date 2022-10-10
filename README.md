@@ -37,6 +37,7 @@ I'm Brazilian, but I'm living in Canada, so I need to do my best :muscle:. So le
 - **C#**
 	- [Modeling Rich Domains](https://github.com/diegodrf/ddd-rich-domain-course-baltaio)
 	- [Data access using .NET, C#, Dapper and SQL Server](https://github.com/diegodrf/dapper-course-baltaio)
+	- [Refactoring for Unit Tests](https://balta.io/player/assistir/5d081362-fb6f-c00e-79ab-8a9b00000000)
 - **Flutter**
 	- [Parallax](https://github.com/diegodrf/flutter_parallax)
 
