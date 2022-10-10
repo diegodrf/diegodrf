@@ -17,7 +17,7 @@ Here I try to describe a little bit about my life, studies and goals.
 	- [Zabbix SDK](https://github.com/diegodrf/ZabbixAPI_py)
 
 ### About my career :construction_worker: 
-At this moment I am working in [Cielo](https://www.cielo.com.br/) as Operation Analyst on Marketplaces. So I understand about E-commerces, Split Payments, Installments, and Point Of Sales.
+At this moment I am working in [Cielo](https://www.cielo.com.br/) as Operation Analyst on Marketplace. So I understand about E-commerce, Split Payment, Installment, and Point Of Sale.
 
 Before it I worked with NOCs in big Companies like [Stone](https://www.stone.com.br), [Estacio College](https://estacio.br) and [Grupo Águas do Brasil](https://www.grupoaguasdobrasil.com.br).
 
