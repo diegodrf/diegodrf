@@ -41,6 +41,9 @@ I'm Brazilian, but I'm living in Canada, so I need to do my best :muscle:. So le
 - **Flutter**
 	- [Parallax](https://github.com/diegodrf/flutter_parallax)
 
+### Events
+- [HacktoberFest 2022 - Sou Junior Challenge](https://github.com/SouJunior/code-challenge/tree/main/csharp/diegodrf)
+
 ## My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegodrf&hide=c%2b%2b,CMake,Swift,C,TSQL,Dockerfile,Objective-C,HTML,JavaScript,CSS&langs_count=10,&layout=compact&bg_color=151515&text_color=9e9e9e)](https://github.com/anuraghazra/github-readme-stats)
