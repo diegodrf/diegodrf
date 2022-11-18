@@ -29,10 +29,6 @@ And now, I'm looking for a migration on my career to be a developer
 I’m learning C#, ASP.NET and Dart Flutter.
 Why two languages? Because I love backend. But sometimes we need a screen to see some value in our projects. So in a future I can be a Fullstack mobile, or maybe Fullstack web using Flutter web.
 
-
-English... It's my  weakness. I can study and understand [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language), but I can't understand English :laughing:.
-I'm Brazilian, but I'm living in Canada, so I need to do my best :muscle:. So let's talk and help me to improve. I accept tips.:pray:
-
 ### Here I show some repositories based on courses
 - **C#**
 	- [Modeling Rich Domains](https://github.com/diegodrf/ddd-rich-domain-course-baltaio)
