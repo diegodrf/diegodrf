@@ -2,10 +2,10 @@
 
 Hi there, I'm Diego Faria.<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-You are in my github page. So I believe that you are interested to know something about me.
+You are on my GitHub page. So I believe that you are interested to know something about me.
 Here I try to describe a little bit about my life, studies and goals.
 
-**Feel free to send me feedbacks about this page and all of my projects on Github. I will be grateful to receive your point of view and/or suggestions.**
+**Feel free to send me feedback about this page and all of my projects on GitHub. I will be grateful to receive your point of view and/or suggestions.**
 
 ## Some of my projects that I would like to share with you
 - **C#**
@@ -19,15 +19,15 @@ Here I try to describe a little bit about my life, studies and goals.
 ### About my career :construction_worker: 
 At this moment I am working in [Cielo](https://www.cielo.com.br/) as Operation Analyst on Marketplace. So I understand about E-commerce, Split Payment, Installment, and Point Of Sale.
 
-Before it I worked with NOCs in big Companies like [Stone](https://www.stone.com.br), [Estacio College](https://estacio.br) and [Grupo Águas do Brasil](https://www.grupoaguasdobrasil.com.br).
+Before it, I worked with NOCs in big Companies like [Stone](https://www.stone.com.br), [Estacio College](https://estacio.br) and [Grupo Águas do Brasil](https://www.grupoaguasdobrasil.com.br).
 
-During my experience in NOCs I discovered my passion about programming languages. I started writing some monitoring scripts and autommations using **Python** and now I love to write complex SQL queries for reports, create console applications and small APIs to solve operations problems.
+During my experience in NOCs, I discovered my passion for programming languages. I started writing some monitoring scripts and automation using **Python** and now I love to write complex SQL queries for reports, create console applications and small APIs to solve operations problems.
 
-And now, I'm looking for a migration on my career to be a developer
+And now, I'm looking for a migration in my career to be a developer
 
 ### About my studies :computer: 
 I’m learning C#, ASP.NET and Dart Flutter.
-Why two languages? Because I love backend. But sometimes we need a screen to see some value in our projects. So in a future I can be a Fullstack mobile, or maybe Fullstack web using Flutter web.
+Why two languages? Because I love the backend. But sometimes we need a screen to see some value in our projects. So in the future, I can be a Fullstack mobile, or maybe Fullstack web using Flutter web.
 
 ### Here I show some repositories based on courses
 - **C#**
