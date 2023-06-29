@@ -48,6 +48,6 @@ Why two languages? Because I love backend. But sometimes we need a screen to see
 
 ### Connect with me:
 
-[![Gmail Badge](https://img.shields.io/badge/-diego.rdfaria@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diego.rdfaria@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Faria-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rodrigues-00a21994/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-diego.rdfaria@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:diegordfaria+github@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Faria-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diegorfaria/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@diegodrf-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/diegodrf "Contact on Telegram")
